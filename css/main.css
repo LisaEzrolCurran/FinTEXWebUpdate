@@ -98,8 +98,13 @@ header .intro-text .name {
 }
 
 header .intro-text .skills {
-    font-size: 1.25em;
-    font-weight: 300;
+    font-size: 1.3em;
+    font-weight: 700;
+}
+
+header .intro-text .focus {
+    font-size: 1.1em;
+    font-weight: 400;
 }
 
 @media(min-width:768px) {
